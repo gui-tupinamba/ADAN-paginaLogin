@@ -18,7 +18,7 @@ export function App() {
         </div>
 
         <div className="flex flex-col items-center">
-          <form method="post" className="flex flex-col items-center mt-5 xl:w-[90%] xl:h-[80%]  xl:bg-preto-90 xl:rounded-[100px] 2xl:mt-14 2xl:w-[649px] 2xl:h-[861.43px]">
+          <form method="post" className="flex flex-col items-center mt-5 xl:w-[90%] xl:h-[80%] 2xl:mt-14 2xl:w-[649px] 2xl:h-[861.43px]">
             <legend className="text-4xl font-bold pt-16 md:text-5xl xl:pt-10 2xl:text-6xl 2xl:pt-24">Login</legend>
 
             <div className="relative flex items-center mt-10 md:mt-5 2xl:mt-24">
